@@ -5,20 +5,20 @@ body {
 h1 {
   color: black;
   text-align: center;
-  font-family: Helvetica;
+  font-family: Verdana;
   font-size: 40px;
 }
 
 h2 {
   color: orange;
   text-align: center;
-  font-family: Helvetica;
+  font-family: Verdana;
   font-size: 30px;
 }
 
 p {
   color: b;
   text-align: center;
-  font-family: Helvetica;
+  font-family: Verdana;
   font-size: 20px;
 }
