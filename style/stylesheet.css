@@ -1,13 +1,24 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
+  font-family: Helvetica;
+  font-size: 40px;
+}
+
+h2 {
+  color: orange;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 30px;
 }
 
 p {
-  font-family: verdana;
+  color: b;
+  text-align: center;
+  font-family: Helvetica;
   font-size: 20px;
 }
